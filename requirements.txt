@@ -1,0 +1,5 @@
+streamlit==1.36.0
+google-generativeai==0.3.1 # Or a compatible version you prefer
+pdfplumber          # As discussed, this is a stable version
+pandas              # Or a compatible version
+openpyxl           # Necessary for pandas to write .xlsx files
